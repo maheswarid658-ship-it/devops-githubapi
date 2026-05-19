@@ -1,2 +1,5 @@
+#!/usr/bin/env python3
 print("hello")
-ptrint("This is a sample text")
+x = "Mahi"
+print(f"printing x: {x}")
+print("This is a sample text")
