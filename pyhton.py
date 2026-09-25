@@ -1,1 +1,1 @@
-x=a+b
+print("Hello Mahi")
